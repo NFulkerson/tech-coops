@@ -43,10 +43,11 @@ Coop | Business Areas | Region/Country | Notes
 [C4 Tech & Design](https://c4tech.com) | Web Design, Business IT Services, Computer Repair | New Orleans, USA |
 [CoLab](https://www.colab.coop) |  | Ithaca, NY, USA | *"CoLab’s mission is to contribute to a new economy of justice and cooperation while bringing clients beautiful, cutting-edge technology."*
 [Co-operative Web](https://web.coop) | Web Development, Mobile Development, Web Hosting, legacy software support | Birmingham, UK |
+[Design Action Collective](https://designaction.org) | Web Design, Development, Identity Design, Print Design | Oakland, CA |
 [Devtopia](https://devtopia.coop) | Consulting, project management, design and UX, web development, app development, marketing | Spain | Distributed company
 [Digicoop](http://digicoop.io) | Product company, makers of [kantree.io](https://kantree.io) | France | Distributed company
 [dtc innovation](https://dtc-innovation.org) | Web development, design and engineering, cooperation, open {data&#124;source} | France, UK, Québec |
-[EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social moviments
+[EITA](http://eita.org.br) | Open Source Development | Brazil | Our goal is to deliver open source technologies to social movements
 [Electric Embers](https://electricembers.coop) | Hosting | San Francisco, CA, USA |
 [Enspiral](https://enspiral.com) |  | NZ | Network-type
 [Feel Train](https://feeltrain.com/) |  | Portland, OR, USA | *"Feel Train will never consist of more than 8 people."*
@@ -148,6 +149,8 @@ Coop | Business Areas | Region/Country | Notes
 
 * [Ask HN: Examples of tech worker cooperatives?](https://news.ycombinator.com/item?id=7634152) - Interesting discussion with lots of links.
 * [/r/cooperatives](https://www.reddit.com/r/cooperatives/) - Subreddit about cooperatives.
+* [cultivate.coop](http://cultivate.coop/wiki/Main_Page) - Wiki resource maintained by TESA Collective
+* [Study Guide to the Cooperative Movement](http://www.toolboxfored.org/study-guide-to-the-cooperative-movement/)
 
 <a name="talks" />
 
@@ -157,6 +160,9 @@ Coop | Business Areas | Region/Country | Notes
 * [Grow Your Own Economy in a Company](https://medium.com/enspiral-tales/grow-your-own-economy-in-a-company-a88efc4ba0d), Don’t wait for the system out there to change — make your own rules and live in the economy you want, right now.
 * [Two Years Wiser, The Nilenso Experiment - Steven Deobald](https://www.youtube.com/watch?v=uYTFCSZb3Kc)
 * [Cooperative Codes](https://www.gcoop.coop/codigos-cooperativos)
+* [Own the Change: Building Economic Democracy One Worker Co-Op At A Time](https://www.youtube.com/watch?v=8G1-SYMatNc)
+
+
 
 <a name="mailinglists" />
 
