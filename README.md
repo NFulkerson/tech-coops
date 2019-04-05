@@ -54,6 +54,7 @@ Coop | Business Areas | Region/Country | Notes
 [Fiqus](http://fiqus.com) | Web and mobile development | Buenos Aires, Argentina |
 [Gaia Host Collective](http://gaiahost.coop) | Hosting | Greenfield, MA, USA |
 [gcoop](https://gcoop.coop) | Hosting, Consulting, Web Development, FLOSS Development | Buenos Aires, Argentina |*"Transformamos los sistemas."*
+[The Glory Society](http://theglorysociety.com) | Game studio | | Workers collective begun by two co-creators of *Night in the Woods*
 [Go free Range](http://gofreerange.com) | Web development | UK |
 [Igalia](https://www.igalia.com) | Free Software consultancy | A Coruña, Spain; Global | 40+ workers
 [IT Kollektiv](https://it-kollektiv.com) | Cross-platform apps, web development, backend development, consulting | GER | Network-type
@@ -61,6 +62,7 @@ Coop | Business Areas | Region/Country | Notes
 [Jamgo](http://jamgo.coop/en/) | Front-end dev, design services, e-commerce, Drupal/WordPress | Barcelona, Spain |
 [Koumbit](https://www.koumbit.org/en) | Hosting, Websites, Sysadmin | Montreal, Quebec, Canada |
 [Loomio](https://www.loomio.org) | Online decision-making app |  Wellington, New Zealand | [Wikipedia](https://en.wikipedia.org/wiki/Loomio)
+[Motion Twin](https://motion-twin.com/en/) | Game studio | Bordeaux, France | Developers of Dead Cells
 [MuchDifferent](http://www.muchdifferent.com) | Game technology, Engineering | Uppsala, Sweden |
 [Nilenso](https://nilenso.com) | Development (Clojure, Javascript, Ruby, Haskell, Go, Java) | Bangalore, India |
 [Outlandish](https://outlandish.com/) | Web development | London, UK | Sponsored [2016 Outlandish Fellowships](https://www.outlandish.com/fellowship/) |
@@ -93,6 +95,7 @@ Coop | Business Areas | Region/Country | Notes
   * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
+* [Game Workers Unite](https://www.gameworkersunite.org) - Organization seeking to connect union activists, workers, and allies in order to build a unionized game industry.
 
 ## Meetups
 
