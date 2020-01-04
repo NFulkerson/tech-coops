@@ -92,7 +92,7 @@ Coop | Business Areas | Region/Country | Notes
 ## Networks of coops
 
 * [CoTech](https://www.coops.tech) - Network of tech coops in the UK.
-  * [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
+* [CoTech Wiki](https://wiki.coops.tech/wiki/Main_Page)
 * [FACT\[TIC\]](http://facttic.org.ar) - Federation of tech worker-cooperatives in Argentina.
 * [Tech Co-op Network](https://techworker.coop) - North American Technology Worker Cooperatives.
 * [Game Workers Unite](https://www.gameworkersunite.org) - Organization seeking to connect union activists, workers, and allies in order to build a unionized game industry.
